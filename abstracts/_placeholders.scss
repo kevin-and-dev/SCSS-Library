@@ -1,0 +1,25 @@
+%shadow {
+  box-shadow: 0px 2px 6px rgba(0,0,0, 0.2);
+}
+
+%shadow_light {
+  box-shadow: 0px 1px 4px rgba(0,0,0, 0.15);
+}
+
+%borderRadius {
+  border-radius: 5px;
+}
+
+%borderRadius_light {
+  border-radius: 2px;
+}
+
+
+// Z-index
+%zindex-dropdown          { z-index: 1000; }
+%zindex-sticky            { z-index: 1020; }
+%zindex-fixed             { z-index: 1030; }
+%zindex-modal-backdrop    { z-index: 1040; }
+%zindex-modal             { z-index: 1050; }
+%zindex-popover           { z-index: 1060; }
+%zindex-tooltip           { z-index: 1070; }
