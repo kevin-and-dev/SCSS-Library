@@ -1,11 +1,12 @@
 # SCSS Partition
+### No Longer Actively Maintaining this project.
 ##### Common SCSS contexts for HTML5
 
 ------------
 
 ** Notes:**
 
-[May-2021] Update of this project: Nowadays, React/VueJS/Angular or similar framework dominated the market and this SCSS library became less important/useful then before. In React/VueJS/Angular, styles belongs to individual components instead of grouping multiple style into signal file per webpage. However, I will leave this repo open because functions/mixins...etc is still useful and able to use in the above frameworks.
+[May-2021] Update of this project: Nowadays, many Tailwind/React or UI framework dominated the market and this SCSS library became less important/useful then before. In React/VueJS/Angular, styles belongs to individual components instead of grouping multiple style into signal file per webpage. However, I will leave this repo open because functions/mixins...etc is still useful and able to use in the above frameworks.
 
 ------------
 
